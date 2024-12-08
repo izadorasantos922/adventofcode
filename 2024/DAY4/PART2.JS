@@ -1,0 +1,1 @@
+// Hey i couldn't do the part 2 because i cant undestand and find the solution, sorry for the dissapoint but i am bad at matriz 
